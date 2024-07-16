@@ -4,7 +4,7 @@ This repository contains MongoDB queries for manipulating product data stored in
 
 ## Task Details
 
-For this task, you'll be working with a collection of products stored in MongoDB. Here are the queries and their corresponding tasks:
+It contains the solution for these questions:
 
 1. **Find all the information about each product**
 2. **Find the product price which are between 400 to 800**
